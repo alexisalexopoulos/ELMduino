@@ -30,3 +30,14 @@
 *.exe
 *.out
 *.app
+
+# hex files 
+*.bin
+*.elf
+
+#wokwi
+*.toml
+
+#vscode
+*.code-workspace
+.gitignore
